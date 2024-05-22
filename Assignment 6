@@ -1,0 +1,11 @@
+include <iostream> using namespace std;
+
+int main(){
+
+cout<<"ankit bijapari "<<endl; cout<<"23100BTCSE14767"<<endl;
+
+cout<<"HELLO WORLD"<<endl;
+
+return 0;
+
+}
